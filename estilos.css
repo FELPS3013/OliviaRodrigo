@@ -22,3 +22,21 @@ img.disco:hover{
 body{
     background-color: rgb(220, 182, 255);
 }
+ol.menu{
+    list-style: none;
+    position: absolute;
+    top: 3.5%;
+    right: 9%;
+}
+ol.menu li{
+    text-align: right;
+    font-family: 'Emilys Candy', sans-serif;
+    display: inline-block;
+    font-size: 200%;
+    padding: 10px;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(58, 25, 58)
+}
