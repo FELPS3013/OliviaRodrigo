@@ -20,7 +20,7 @@ img.disco:hover{
 	transform: rotateZ(-360deg);
 }
 body{
-    background-color: rgb(220, 182, 255);
+    background: url("img/fundo.jpg");
 }
 ol.menu{
     list-style: none;
