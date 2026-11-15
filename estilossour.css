@@ -37,7 +37,11 @@ ol.menu li{
 }
 a{
     text-decoration: none;
-    color: rgb(58, 25, 58)
+    color: rgb(36, 35, 55);
+    transition: all 1s;
+}
+a:hover{
+    color: rgb(103, 98, 158);
 }
 figure.capa{
     float:right;
@@ -51,6 +55,7 @@ div.texto{
     padding: 1%;
     border-radius: 20px;
     color: rgb(236, 221, 251);
+    margin: 20px;
 }
 h1{
     font-family: "Kavoon", sans-serif;
@@ -65,6 +70,7 @@ h2{
 iframe{
     float:right;
     margin: 20px;
+    border: solid 5px rgba(63, 60, 95, 0.8);
 }
 p{
     font-size: 120%;
