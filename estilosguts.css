@@ -26,8 +26,8 @@ body{
 h1.titulo{
   font-family: "Limelight", sans-serif;
   color: white;
-  font-size: 80px;
-  background-color: rgba(45, 13, 50, 0.523);
+  font-size: 300%;
+  /*background-color: rgba(45, 13, 50, 0.523);*/
   border-radius:30px;
   text-shadow:5px 5px 5px rgb(178, 99, 211);
   text-align:center;
@@ -35,7 +35,45 @@ h1.titulo{
   margin-right:500px;
 }
 
-img.capa{
-    border: solid 4px rgb(193, 91, 193);
+
+.capa-album {
+    
+    width: 400px;   
+    height: 400px; 
+    flex-shrink: 0;
+    
+    /* Usa a primeira variável como fundo padrão */
+    background-image: var(--img);
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.5s ease;
+    border: solid 10px rgb(178, 99, 211)
 }
 
+/* Troca para a segunda variável ao passar o mouse */
+.capa-album:hover {
+    background-image: var(--img-hover);
+    border: solid 10px white;
+    background-color: rgba(239, 1, 235, 0.5);
+}
+
+div.introducao p{
+    font-size: 20px;
+    padding: 10px;
+    margin: 0px;
+    text-align: justify;
+    flex: 1;
+
+}
+
+div.introducao{
+    display:flex;
+    flex-direction: row;
+    align-items:flex-start;
+    gap: 20px;
+    background-color :rgba(44, 12, 40, 0.397);
+    padding: 1%;
+    border-radius: 20px;
+    color: rgb(236, 221, 251);
+    margin: 20px;
+}
