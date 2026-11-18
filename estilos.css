@@ -69,6 +69,7 @@ h2{
 }
 p{
     font-size: 120%;
+    text-align:justify;
 }
 span.discos2{
     display: flex;
