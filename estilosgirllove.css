@@ -80,3 +80,40 @@ figure.capa2{
 li{
     font-size: 115%;
 }
+figure.capa2{
+  position: relative;
+  width: 400px; 
+  height: 400px;
+}
+figure.capa2 img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: opacity 0.4s ease;
+}
+img.imagemhover {
+  opacity: 0;
+}
+figure.capa2:hover img.imagemhover {
+  opacity: 1;
+}
+figure.capa{
+  position: relative;
+  width: 400px; 
+  height: 400px;
+}
+figure.capa img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: opacity 0.4s ease;
+}
+figure.capa:hover img.imagemhover {
+  opacity: 1;
+}
