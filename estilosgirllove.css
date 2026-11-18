@@ -43,3 +43,40 @@ a{
 a:hover{
     color: rgb(202, 119, 170);
 }
+figure.capa{
+    float:left;
+}
+figure img{
+    border: solid 5px rgba(80, 136, 138, 0.8);
+}
+div.texto{
+    background-color: rgba(237, 254, 255, 0.507);
+    padding: 2%;
+    border-radius: 20px;
+    color: rgb(28, 59, 60);
+    margin: 20px;
+}
+h1{
+    font-family: "Bonbon", sans-serif;
+    text-align: center;
+    color: rgb(28, 59, 60);
+    font-size: 300%;
+}
+h2{
+    font-family: "Bonbon", sans-serif;
+    font-size: 200%;
+}
+iframe{
+    float:right;
+    margin: 20px;
+    border: solid 5px rgba(63, 60, 95, 0.8);
+}
+p{
+    font-size: 115%;
+}
+figure.capa2{
+    float:right;
+}
+li{
+    font-size: 115%;
+}
