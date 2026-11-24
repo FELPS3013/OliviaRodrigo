@@ -99,3 +99,69 @@ img.imagemhover{
 figure.capa:hover img.imagemhover {
   opacity: 1;
 }
+img.driver2{
+    position: absolute;
+    top: 145%;
+    left: 19%;
+}
+img.car{
+    position: absolute;
+    top: 130%;
+    left: 4%;
+}
+img.brutal{
+    position: absolute;
+    top: 210%;
+    left: 13%;
+}
+img.lingua{
+    position: absolute;
+    top: 196%;
+    left: 4%;
+}
+img.traitor{
+    position: absolute;
+    top: 270%;
+    left: 13%;
+    rotate: 10deg;
+}
+img.dejavu{
+    position: absolute;
+    top: 327%;
+    left: 12%;
+}
+img.borbo{
+    position: absolute;
+    top: 336%;
+    left: 16%;
+    rotate: -20deg;
+}
+img.flower{
+    position: absolute;
+    top: 393%;
+    left: 12%;
+    rotate: 14deg;
+}
+img.jealousy{
+    position: absolute;
+    top: 455%;
+    left: 23%;
+    rotate: -20deg;
+}
+img.favorite{
+    position: absolute;
+    top: 515%;
+    left: 20%;
+    rotate: -20deg;
+}
+img.hope{
+    position: absolute;
+    top: 579%;
+    left: 17%;
+    rotate: -20deg;
+}
+img.hope2{
+    position: absolute;
+    top: 601%;
+    left: 40%;
+}

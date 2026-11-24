@@ -21,7 +21,7 @@ img.disco:hover{
 	transform: rotateZ(-360deg);
 }
 body{
-    background-color: rgb(74, 47, 99);
+    background: url("img/purple.png");
 }
 h1.titulo{
   font-family: "Limelight", sans-serif;
@@ -70,7 +70,7 @@ div.introducao{
     flex-direction: row;
     align-items:flex-start;
     gap: 20px;
-    background-color :rgba(44, 12, 40, 0.397);
+    background-color :rgba(43, 7, 65, 0.875);
     padding: 1%;
     border-radius: 20px;
     color: rgb(236, 221, 251);
@@ -110,7 +110,7 @@ h3{
     left:180px;
 }
 div.seção{
-    background-color :rgba(44, 12, 40, 0.397);
+    background-color :rgba(43, 7, 65, 0.875);
     border-radius: 20px;
 }
 span.texto p{
@@ -159,5 +159,211 @@ img.heart{
 }
 img.badidea{
     position:absolute;
-    top: 233%;
+    top: 230%;
+}
+
+img.boca{
+    position:absolute;
+    top: 240%;
+    left: 37%;
+    rotate: -20deg;
+}
+img.borboleta{
+    position:absolute;
+    top: 250%;
+    left: 40%;
+    rotate: -20deg;
+}
+
+img.vampire{
+    position:absolute;
+    top: 310%;
+    left: 37%;
+    rotate: 10deg;
+}
+
+img.vampire2{
+    position:absolute;
+    top: 310%;
+    left: 16%;
+    rotate: -20000deg;
+}
+img.lacy{
+    position:absolute;
+    top: 356%;
+    left: 32%;
+    rotate: 0deg;
+}
+img.lacy2{
+    position:absolute;
+    top: 368%;
+    left: 24%;
+    rotate: -20010deg;
+}
+img.lacy3{
+    position:absolute;
+    top:370%;
+    left:16%;
+
+}
+img.livro{
+    position:absolute;
+    top: 426%;
+    left:2%;
+}
+img.sentada{
+    position:absolute;
+    top: 410%;
+    left: 2%;
+}
+img.cama{
+    position:absolute;
+    top: 470%;
+    left: 0.4%;
+}
+img.almofada{
+    position:absolute;
+    top: 480%;
+    left: 40%;
+}
+img.deitada2{
+    position: absolute;
+    top:467%;
+    left:1.6%;
+}
+img.coração{
+    position:absolute;
+    top: 540%;
+    left: 14%;
+    rotate: -10deg;
+}
+img.globo{
+    position:absolute;
+    top: 520%;
+    left: 34%;
+    rotate: 10deg;
+}
+img.gethimback{
+    position:absolute;
+    top: 600%;
+    left: 2%;
+}
+img.starwhite{
+    position:absolute;
+    top: 595%;
+    left: 11%;
+}
+img.explosão{
+    position:absolute;
+    top: 598%;
+    left: 40%;
+}
+img.heart2{
+    position:absolute;
+    top: 652%;
+    left: 40%;
+    rotate: 10deg;
+}
+img.loveis{
+    position:absolute;
+    top: 649%;
+    left: 2%;
+}
+img.pretty{
+    position:absolute;
+    top: 767%;
+    left: 6%;
+}
+img.grudge2{
+    position:absolute;
+    top: 720%;
+    left: 35%;
+    rotate: -40deg;
+}
+img.eye{
+    position:absolute;
+    top: 718%;
+    left: 12%;
+}
+img.pretty2{
+    position:absolute;
+    top: 768%;
+    left: 38%;
+    rotate: 10deg;
+}
+img.kiss{
+    position:absolute;
+    top: 830%;
+    left: 11%;
+    rotate: -50deg;
+}
+img.laço{
+    position:absolute;
+    top: 830%;
+    left: 39%;
+    rotate: -10deg;
+}
+img.obsessed{
+    position:absolute;
+    top: 880%;
+    left: 10%;
+}
+img.obsessed2{
+    position:absolute;
+    top: 873%;
+    left: 34%;
+}
+img.guitar{
+    position:absolute;
+    top: 990%;
+    left: 2%;
+}
+img.girl{
+    position:absolute;
+    top: 940%;
+    left:7%;
+}
+
+img.girl2{
+    position:absolute;
+    top: 945%;
+    left: 40%;
+    rotate: 10deg;
+}
+img.heart3{
+    position:absolute;
+    top: 996%;
+    left: 40%;
+    rotate: 10deg;
+}
+img.cat{
+    position:absolute;
+    top: 1045%;
+    left: 2%;
+}
+img.spilled{
+    position:absolute;
+    top: 1050%;
+    left: 40%;
+}
+img.so{
+    position:absolute;
+    top: 1102%;
+    left: 2%;
+}
+img.lip{
+    position:absolute;
+    top: 1120%;
+    left: 37%;
+}
+img.coca{
+    position:absolute;
+    top: 1115%;
+    left: 14%;
+    rotate: -5deg;
+}
+img.name{
+    position:absolute;
+    top: 1115%;
+    left: 45%;
 }
