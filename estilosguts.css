@@ -40,16 +40,12 @@ h1.titulo{
     width: 400px;   
     height: 400px; 
     flex-shrink: 0;
-    
-    /* Usa a primeira variável como fundo padrão */
     background-image: var(--img);
     background-size: cover;
     background-position: center;
     transition: background-image 0.5s ease;
     border: solid 10px rgb(178, 99, 211)
 }
-
-/* Troca para a segunda variável ao passar o mouse */
 .capa-album:hover {
     background-image: var(--img-hover);
     border: solid 10px white;
