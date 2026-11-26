@@ -127,41 +127,67 @@ img.traitor{
 }
 img.dejavu{
     position: absolute;
-    top: 327%;
+    top: 390%;
     left: 12%;
 }
 img.borbo{
     position: absolute;
-    top: 336%;
+    top: 398%;
     left: 16%;
     rotate: -20deg;
 }
 img.flower{
     position: absolute;
-    top: 393%;
+    top: 577%;
     left: 12%;
     rotate: 14deg;
 }
 img.jealousy{
     position: absolute;
-    top: 455%;
+    top: 638%;
     left: 23%;
     rotate: -20deg;
 }
 img.favorite{
     position: absolute;
-    top: 515%;
+    top: 698%;
     left: 20%;
     rotate: -20deg;
 }
 img.hope{
     position: absolute;
-    top: 579%;
+    top: 760%;
     left: 17%;
     rotate: -20deg;
 }
 img.hope2{
     position: absolute;
-    top: 601%;
+    top: 786%;
     left: 40%;
+}
+img.good{
+    position:absolute;
+    top:434%;
+    left:10%;
+}
+img.trash{
+    position:absolute;
+    top:512%;
+    left:20%;
+}
+img.step{
+    position:absolute;
+    left:32%;
+    top:330%;
+    rotate:15deg;
+}
+img.step2{
+    position:absolute;
+    left:2%;
+    top:323%;
+}
+img.urso{
+   position:absolute;
+   left:50%;
+   top: 485%; 
 }

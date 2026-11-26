@@ -117,3 +117,83 @@ figure.capa img {
 figure.capa:hover img.imagemhover {
   opacity: 1;
 }
+img.drop{
+    position: absolute;
+    top: 178%;
+    left: 13%;
+    rotate: -20deg;
+    
+}
+img.heart{
+    position: absolute;
+    top: 242%;
+    left: 13%;
+}
+img.honey{
+    position: absolute;
+    top: 310%;
+    left: 14%;
+    rotate: 30deg;
+}
+img.maggots{
+    position:absolute;
+    top:370%;
+    left:23%;
+}
+img.uandme{
+    position:absolute;
+    top:430%;
+    left:20%;
+    rotate:10deg;
+}
+img.myway{
+    position:absolute;
+    top:495%;
+    left:14%;
+
+}
+img.purple{
+    position: absolute;
+    left: 12%;
+    top:565%;
+}
+img.cure{
+    position: absolute;
+    left: 15%;
+    top:627%;
+}
+img.cure2{
+    position: absolute;
+    left: 10%;
+    top:619%;
+}
+img.flor{
+    position: absolute;
+    left:10%;
+    top:690%;
+}
+img.wrong{
+    position:absolute;
+    left:30%;
+    top:752%;
+}
+img.less{
+    position:absolute;
+    left:7%;
+    top:805%;
+}
+img.expect{
+    position:absolute;
+    left:20%;
+    top:875%;
+}
+img.cigarret1{
+    position: absolute;
+    left:20%;
+    top:933%;
+}
+img.cigarret2{
+    position:absolute;
+    left:3%;
+    top:918%;
+}
